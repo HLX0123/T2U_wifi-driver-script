@@ -2,7 +2,7 @@
 Welcome to **hlx01's TechHub**! This repository hosts a professional-grade Bash script to effortlessly install and configure the TP-Link Archer T2U Plus (RTL8821AU chipset) Wi-Fi driver on Kali Linux. With *one simple command*, it automates the entire process—no complicated setup required.
 
 ## Download
-**[Download complete_setup_with_driver_removal_and_hlx01_branding.sh](https://github.com/hlx01/wifi-driver-script/raw/main/complete_setup_with_driver_removal_and_hlx01_branding.sh)**
+**[Download complete_setup_with_driver_removal_and_hlx01_branding.sh](https://github.com/HLX0123/T2U_wifi-driver-script.git)**
 
 ### File Details
 - **Version**: 1.0 (~1.2 KB)
